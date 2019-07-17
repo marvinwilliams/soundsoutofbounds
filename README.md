@@ -61,5 +61,5 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Calling `python3 build.py` without any parameters will provide detailed instructions on how to build the songbook exactly as you want.  
+Then, calling `python3 build.py` without any parameters will provide detailed instructions on how to build the songbook exactly as you want.  
 This way, you can also get a booklet-style PDF which you can then directly print out on any duplex printer to get a nice booklet.
